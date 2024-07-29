@@ -1,5 +1,3 @@
-setwd("~/Dropbox/Desktop/Papers/ACTIVE/Vinay/vinay-github-redone")
-
 library(mvMORPH)
 library(phylopath)
 library(phytools)
